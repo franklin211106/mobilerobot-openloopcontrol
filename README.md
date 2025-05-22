@@ -1,4 +1,6 @@
 # MobileRobot-Openloopcontrol
+# NAME : FRANKLIN.F
+# REG.NO: 212224240041
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
